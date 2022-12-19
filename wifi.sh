@@ -49,10 +49,9 @@ pkg install figlet
 fi
 
 clear
-setterm -foreground red
+setterm -foreground blue
 figlet PhishW
 echo ""
-setterm -foreground blue
 echo -n "[+]Introduce el nombre de la red wifi >> "
 read a
 echo "
