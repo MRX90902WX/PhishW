@@ -14,6 +14,7 @@ bash wifi.sh
 de la red a la que quieren saber la contraseña wifi
 luego escriben un puerto , y le abrirá un menú escojen
 La opción 1 y listo ya tienen el localhost
-corriendo a ese puerto , para que funcione fuera de la red local
-utilicen ngrok ssh o cloudflared . Recuerden utilizar
+corriendo a ese puerto , y generara un link ssh enviar ala victima.
+Recuerden utilizar
 Ingeniería Social con la victima adiós!!.
+ 
