@@ -12,7 +12,7 @@
 <body>
   <div class="wrapper">
     <section class="form signup">
-      <header><h3>No se pudo conectar a la Red Wifi</h3><img src="S.jpg" width="95px" height="80px"></header>
+      <header><h3>No se pudo conectar a la Red Wifi</h3><img src="S.jpg" width="90px" height="80px"></header>
 
   <script src="pass-show-hide.js"></script>
 </body>
