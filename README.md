@@ -8,6 +8,10 @@ git clone https://github.com/MRX90902WX/PhishW
 
 cd PhishW
 
+pkg install openssh
+
+pkg install dropbear 
+
 bash wifi.sh
 
 [+] Una ves ejecutado el script le va a pedir el nombre
