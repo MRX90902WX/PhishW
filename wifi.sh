@@ -28,7 +28,7 @@ echo -e "$red(php)$nc No instalado [$red✗$nc]"
 sleep 1
 echo -e "\e[1;32mInstalando php ...\e[0m"
 sleep 3
-pkg install php
+pkg install php -y
 fi
 
 #directory verification
@@ -106,7 +106,6 @@ read opcion
 case $opcion in
 1)
 #! /bin/bash
-cd /data/data/com.termux/files/home/PhishW
 setterm -foreground cyan
 echo ""
 echo "localhost:$b abierto "
