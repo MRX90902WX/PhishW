@@ -1,18 +1,21 @@
 # PhishW
 Un simple phishing para obtener la contraseña wifi de alguien mandando un link mediante tunel al puerto abierto que se abrira con bash wifi.sh .
 
-#Script solo para Termux
+#USO para Termux y kali
+
+#TERMUX :
+
 Clonar el repositorio
 
-git clone https://github.com/MRX90902WX/PhishW
+- git clone https://github.com/MRX90902WX/PhishW
 
-cd PhishW
+- cd PhishW
 
-pkg install openssh
+- pkg install openssh
 
-pkg install dropbear 
+- pkg install dropbear 
 
-bash wifi.sh
+- bash wifi.sh
 
 [+] Una ves ejecutado el script le va a pedir el nombre
 de la red a la que quieren saber la contraseña wifi
@@ -22,3 +25,23 @@ corriendo a ese puerto , y le generara un link ssh enviar ala victima.
 Recuerden utilizar
 Ingeniería Social con la victima adiós!!.
  
+#KALI LINUX
+
+-sudo apt-get install update
+
+-sudo apt-get install figlet
+
+-sudo apt-get install openssh
+
+-sudo apt-get install dropbear
+
+- git clone https://github.com/MRX90902WX/PhishW
+
+-bash wifi.sh
+
+*****
+
+By code: MRX-HACKS
+
+
+
