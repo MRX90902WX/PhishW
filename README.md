@@ -27,17 +27,17 @@ Ingeniería Social con la victima adiós!!.
  
 #KALI LINUX
 
--sudo apt-get install update
+- sudo apt-get install update
 
--sudo apt-get install figlet
+- sudo apt-get install figlet
 
--sudo apt-get install openssh
+- sudo apt-get install openssh
 
--sudo apt-get install dropbear
+- sudo apt-get install dropbear
 
 - git clone https://github.com/MRX90902WX/PhishW
 
--bash wifi.sh
+- bash wifi.sh
 
 *****
 
