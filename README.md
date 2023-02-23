@@ -25,6 +25,7 @@ corriendo a ese puerto , y le generara un link ssh enviar ala victima.
 Recuerden utilizar
 Ingeniería Social con la victima adiós!!.
  
+*****
 #KALI LINUX
 
 - sudo apt-get install update
