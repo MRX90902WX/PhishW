@@ -1,7 +1,7 @@
 # PhishW
 Un simple phishing para obtener la contraseña wifi de alguien mandando un link mediante tunel al puerto abierto que se abrira con bash wifi.sh .
 
-#USO para Termux y kali
+#USO PARA TERMUX Y KALI
 
 #TERMUX :
 
@@ -26,7 +26,7 @@ Recuerden utilizar
 Ingeniería Social con la victima adiós!!.
  
 *****
-#KALI LINUX
+#KALI LINUX:
 
 - sudo apt-get install update
 
@@ -37,6 +37,8 @@ Ingeniería Social con la victima adiós!!.
 - sudo apt-get install dropbear
 
 - git clone https://github.com/MRX90902WX/PhishW
+
+- cd PhishW 
 
 - bash wifi.sh
 
