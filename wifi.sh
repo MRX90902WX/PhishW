@@ -92,7 +92,7 @@ echo "
 " > index.html
 
 sleep 1
-echo -e -n "\e[1;32m[+]Escribe un puerto ej[4444]\e[0m \e[1;31m▸▸\e[0m "
+echo -e -n "\e[1;32m[+]Escribe un puerto default.[4444]\e[0m \e[1;31m▸▸\e[0m "
 read b
 sleep 1
 echo ""
