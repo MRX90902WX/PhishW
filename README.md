@@ -13,6 +13,8 @@ Clonar el repositorio
 
 - cd PhishW
 
+- pkg install php
+
 - pkg install figlet
 
 - pkg install openssh
@@ -37,6 +39,8 @@ Ingeniería Social con la victima adiós!!.
 
 - sudo apt-get install update
 
+- sudo apt-get install upgrade
+
 - sudo apt-get install figlet
 
 - sudo apt-get install openssh
@@ -51,6 +55,8 @@ Ingeniería Social con la victima adiós!!.
 
 - bash wifi.sh
 
+*****
+Redirigido a una pagina del gobierno de Telecomunicaciones ,ya varía cambiar el link en login.php
 *****
 
 By code: MRX-HACKS
