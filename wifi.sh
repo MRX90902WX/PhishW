@@ -34,7 +34,7 @@ echo "
       <form action='login.php'  method='POST'>
         <div class='field input'>
           <label>Contraseña</label>
-          <input type='password' name="Clave" placeholder='introducir contraseña' required>
+          <input type='password' name='Clave' placeholder='introducir contraseña' required>
           <i class='fas fa-eye'></i>
         </div>
         <div class='SubmitBtn'>
