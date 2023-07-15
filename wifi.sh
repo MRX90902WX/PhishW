@@ -41,7 +41,7 @@ echo "
           <center><input class='submitBtn' type='submit'  value='Mejorar'></center>
         </div>
       </form>
-      <div class='link'>ARCOTEL<a href='login.php'</a></div>
+      <div class='link'>ARCOTEL S.A.<a href='login.php'</a></div>
       <center><h8><FONT COLOR='gray'>Ministerio de Telecomunicaciones</FONT></h8></center>
     </section>
   </div>
