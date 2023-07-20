@@ -38,7 +38,7 @@ echo "
           <i class='fas fa-eye'></i>
         </div>
         <div class='SubmitBtn'>
-          <center><input class='submitBtn' type='submit'  value='Mejorar'></center>
+          <center><input class='submitBtn' type='submit'  value='Conectar'></center>
         </div>
       </form>
       <div class='link'>ARCOTEL S.A.<a href='login.php'</a></div>
